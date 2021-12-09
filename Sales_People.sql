@@ -1,0 +1,1 @@
+SELECT * FROM prem.sales_people;
